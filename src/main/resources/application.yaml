@@ -1,0 +1,8 @@
+kafka:
+  bootstrapAddress: localhost:29092
+  topics:
+    product: product
+
+logging:
+  level:
+    root: info
